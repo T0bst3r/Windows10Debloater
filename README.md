@@ -5,6 +5,7 @@
 
 
 Remove Cortana: https://www.windowscentral.com/how-uninstall-cortana-windows-10-may-2020-update
+Remove Edge: https://www.tomsguide.com/how-to/how-to-uninstall-microsoft-edge
 
 Script/Utility/Application to debloat Windows 10, to remove Windows pre-installed unnecessary applications, stop some telemetry functions, stop Cortana from being used as your Search Index, disable unnecessary scheduled tasks, and more...
 
